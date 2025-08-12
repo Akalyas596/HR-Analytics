@@ -1,4 +1,4 @@
-# HR Analytics – Mini Project
+# HR Analytics 
 
 ## 📌 Project Title
 **Exploring the Evolution of Human Resource Analytics and its Impact on Organisational Performance**
