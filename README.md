@@ -34,11 +34,5 @@ To study the evolution of HR analytics and assess its impact on organisational p
 - People analytics for diversity & inclusion
 - Workforce planning & skill gap analysis
 
-## 👩‍💻 Author
-**Akalya S**  
-Department of Computer Science and Engineering  
-Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College
 
----
-📅 **Date:** 27.06.2024
 
